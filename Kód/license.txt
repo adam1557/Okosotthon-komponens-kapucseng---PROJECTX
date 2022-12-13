@@ -1,0 +1,1 @@
+A webes megvalósításhoz egy open source projektet: [->KATT<-](https://github.com/silvanmelchior/RPi_Cam_Web_Interface) használtunk fel és fejlesztettünk tovább.
